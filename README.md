@@ -6,7 +6,7 @@
 <li>you can enter the name coctail in the search bar</li>
 <li>you can use alphabetical search, you need to click on the first letter of the cocktail name</li>
 <li>you can just reload the page and get a random list of cocktails</li>
-<img src="./readme/search.png.png" width=400 height=240>
+<img src="./readme/search.png" width=400 height=240>
 <p align="left">if you click on a cocktail - you can read its description and ingredients</p>
 <img src="./readme/coctail.png" width=400 height=240>
 <p align="left">If you click on the ingredients - you can read their description</p>
@@ -19,4 +19,4 @@
 <img src="./readme/favorite_ing.png" width=400 height=240>
 </div> 
 <p>An adaptive version of the application has been implemented for use on mobile devices</p>
-<img src="./readme/adaptiv.png" width=400 height=240>
+<img src="./readme/adaptiv.png" width=250 height=400>
