@@ -1,4 +1,5 @@
-<h1 align="center">Cocktail application.</h1> 
+<h1 align="center">Cocktail application.</h1>
+<p>Thanks to this application, you can prepare any cocktail. You just need to find a cocktail, look at its ingredients and how it is made.</p>
 <img src="./readme/home_light.png" alt="домашняя страничка">
 <p align="left">Dark theme implemented in the application for ease of use</p>
 <img src="./readme/home.png" width=400 height=240>
