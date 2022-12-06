@@ -22,4 +22,4 @@
 <p>An adaptive version of the application has been implemented for use on mobile devices</p>
 <img src="./readme/adaptiv.png" width=250 height=400>
 
-<p align="left">The technologies were used in the development of this application: HTML/SASS/JavaScript</p>
+<h2 align="left">The technologies were used in the development of this application: HTML/SASS/JavaScript</h2>
